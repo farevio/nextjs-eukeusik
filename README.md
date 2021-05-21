@@ -1,4 +1,4 @@
-# Demo of Land-e-commerces inspired by Sundanese "Keusik" 
+# Land-e-commerces inspired by Sundanese "Keusik" 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
